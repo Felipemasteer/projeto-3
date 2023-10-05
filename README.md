@@ -1,0 +1,1 @@
+esse foi meu terceiro projeto feito no html e minha primeira vez usando css e para o css utilizei as tags:(font size) para o tamanho da fonte, (font weight) para a intenisdade da fonte, (font family) para qual o tipo da fonte, (color) para definir a cor da palavra e (line eight) para definir o espaçamento entre as linhas
