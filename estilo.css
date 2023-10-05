@@ -1,0 +1,17 @@
+.titulo{
+    font-size: 50px;
+    font-weight: 800;
+    font-family: Arial
+}
+
+.txtAzul{
+    color: #00ceff;
+}
+
+.TxtRoxo{
+    color: rgba(140, 114, 114, 0.4);
+}
+
+.paragrafo{
+    line-height: 30px;
+}
